@@ -54,7 +54,4 @@ There are no menus, animator parameters, or synced avatar expressions. The targe
 - The generated meshes are basic placeholders intended for customization, not production artwork.
 - Generated prefab creation and VRChat runtime behavior require the matching Unity editor and SDK packages.
 
-This project is licensed under the GNU General Public License, version 2 only. See [LICENSE](LICENSE) for the license text.
-
-
-
+This project is licensed under the GNU General Public License, version 3 only. See [LICENSE](LICENSE) for the license text.
