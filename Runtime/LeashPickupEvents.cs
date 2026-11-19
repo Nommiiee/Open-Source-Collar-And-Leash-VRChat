@@ -1,3 +1,5 @@
+
+// Copyright (C) 2026 Nommiiee
 // Copyright (C) 2026 Nommiiee
 using UdonSharp;
 using VRC.SDKBase;

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 // Copyright (C) 2026 Nommiiee
 #if UNITY_EDITOR
 using UnityEditor;
@@ -16,7 +17,7 @@ namespace OpenSourceCollarAndLeash.Editor
         private float attachRadius = 0.4f;
         private int prefabCount = 1;
 
-        [MenuItem("Tools/Open Source Collar And Leash")]
+        [MenuItem("Tools/Nommiiee/Open Source Collar And Leash")]
         public static void Open()
         {
             LeashCollarProjectWindow window = GetWindow<LeashCollarProjectWindow>(true, ProjectTitle, true);
